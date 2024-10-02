@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://agri.kps.ku.ac.th/view/',
+        'url'		=> 'https://smart.hss.moph.go.th/phdb/view/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
